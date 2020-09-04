@@ -8,4 +8,4 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 include_directories($(CMAKE_CURRENT_SOURCE_DIR)/source)
 
-add_executable(course_dimensionality source/main.cpp)
+add_executable(lab_1 source/main.cpp)
