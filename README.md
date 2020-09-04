@@ -1,6 +1,6 @@
 # Daryl Butron Cuayla - EDA
 
-## Tabla y Gráfico de los datos
+## Tabla y Gráfico de los datos con mediciones en Segundos
 ## vectores de {10000, 15000, 20000, 25000}
 ## dimensiones de {4, 6, 8, 10, 12, 18, 20}
 
