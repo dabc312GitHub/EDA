@@ -1,4 +1,4 @@
-# EDA
+# Daryl Butron Cuayla - EDA
 
 ## Tabla y Gráfico de los datos
 ## vectores de {10000, 15000, 20000, 25000}
